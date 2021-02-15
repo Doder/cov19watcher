@@ -1,0 +1,2 @@
+export const SET_DAY_ONE_ALL_STATUS = 'SET_DAY_ONE_ALL_STATUS';
+export const SORT_BY_COLUMN = 'SORT_BY_COLUMN';
